@@ -1,0 +1,2 @@
+Command: ${I}
+Output: ${G}
